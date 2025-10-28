@@ -19,3 +19,8 @@ A beginner-friendly repository for Hacktoberfest contributions. Perfect for firs
 ## 📜 License
 
 This project is licensed under MIT License.
+## 🚀 Quick Start
+
+```bash
+git clone https://github.com/Madhur-K4/hacktoberfest-practice.git
+cd hacktoberfest-practice
