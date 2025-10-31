@@ -24,3 +24,16 @@ This project is licensed under MIT License.
 ```bash
 git clone https://github.com/Madhur-K4/hacktoberfest-practice.git
 cd hacktoberfest-practice
+
+
+## 🚀 Getting Started
+
+Follow these steps to contribute:
+
+1. **Fork this repository**
+   - Click the "Fork" button at the top right of this page.
+
+2. **Clone your fork locally**
+   ```bash
+   git clone https://github.com/<your-username>/hacktoberfest-practice.git
+   cd hacktoberfest-practice
