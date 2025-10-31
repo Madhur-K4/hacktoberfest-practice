@@ -2,8 +2,9 @@
 // Created for Hacktoberfest 2024
 
 function helloWorld() {
-    console.log("Hello World! 🌍");
-    console.log("Happy Hacktoberfest!");
+    ["Hello World! 🌍", "Happy Hacktoberfest!"].forEach((message) => {
+        process.stdout.write(`${message}\\n`);
+    });
 }
 
 helloWorld();
