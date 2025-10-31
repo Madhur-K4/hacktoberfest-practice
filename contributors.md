@@ -6,4 +6,4 @@ Thank you to all our contributors!
 
 - Your Name - [GitHub Profile](https://github.com/yourusername)
 
-Abishegavalli K - Happy Hacktoberfest!!
+Abishegavalli K - [https://github.com/abi96-dev] Happy Hacktoberfest!!
